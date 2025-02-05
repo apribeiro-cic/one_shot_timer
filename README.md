@@ -1,5 +1,4 @@
 # Atividade EmbarcaTech - Temporizador de um disparo (One Shot).
-# README - Sistema de Temporização para Acionamento de LEDs
 
 ## Visão Geral da Atividade
 Esta atividade tem como objetivo desenvolver um sistema de temporização para o acionamento de LEDs utilizando a placa **BitDogLab** e o microcontrolador **RP2040 (Raspberry Pi Pico W)**, além de uma simulação do projeto no Wokwi. O sistema opera da seguinte forma:
