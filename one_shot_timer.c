@@ -2,9 +2,9 @@
 #include "pico/stdlib.h"
 #include "pico/time.h"
 
-const uint led_pin_red = 12;
-const uint led_pin_green = 13;
-const uint led_pin_blue = 11;
+const uint led_pin_red = 13;
+const uint led_pin_green = 11;
+const uint led_pin_blue = 12;
 const uint btn_A = 5;
 
 static volatile bool current_state = 0; // Diz se a rotina de callback está em execução
